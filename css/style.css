@@ -1,0 +1,26 @@
+h3 {
+    font-size: 22px;
+}
+
+select {
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+form {
+    padding-bottom: 10px;
+}
+
+button {
+    width: 92px;
+    height: 32px;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+p{
+    font-size: 26px;
+}
